@@ -1,17 +1,17 @@
-<div>
+<div align="center">
   <a href="htpps://https://github.com/Felipemevel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipemevel&show_icons=true&theme=midnight-purple"> &nbsp; &nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipemevel&layout=compact&theme=midnight-purple">
 </div>
     
-<div style="display: inline_block;"><br>
-  <img align="center" alt="Java-icon" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"> &nbsp;
-  <img align="center" alt="Python-icon" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"> &nbsp;
-  <img align="center" alt="SpringBoot-icon" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"> &nbsp;
-  <img align="center" alt="JavaScript-icon" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"> &nbsp;
-  <img align="center" alt="Tailwindcss-icon" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"> &nbsp;
-  <img align="center" alt="Tailwindcss-icon" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"> &nbsp;
-  <img align="center" alt="Tailwindcss-icon" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"> &nbsp;
+<div align="center" style="display: inline_block;"><br>
+  <img alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"> &nbsp;
+  <img alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"> &nbsp;
+  <img alt="SpringBoot" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"> &nbsp;
+  <img alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"> &nbsp;
+  <img alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"> &nbsp;
+  <img alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"> &nbsp;
+  <img alt="Tailwind" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
 </div>
 
 ##
@@ -26,7 +26,14 @@
 
 ##
 
-<div>
+
+<p align="center">
+  <img src="https://github.com/Felipemevel/Felipemevel/blob/output/github-snake-dark.svg" alt="snake gif">
+</p>
+
+##
+
+<div align="center">
   <a href="https://github.com/Felipemevel/Programacao-Computadores" target="_blank" style="text-decoration: none;">
     <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Felipemevel&repo=Programacao-Computadores&theme=midnight-purple"></a> &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Felipemevel/desafio-dio-banco" target="_blank" style="text-decoration: none;">
