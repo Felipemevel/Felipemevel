@@ -26,6 +26,11 @@
 ##
 
 <div>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Felipemevel&repo=Programacao-Computadores&theme=midnight-purple">
+  <a href="https://github.com/Felipemevel/Programacao-Computadores" target="_blank">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Felipemevel&repo=Programacao-Computadores&theme=midnight-purple">
+  </a>
+  <a href="https://github.com/Felipemevel/desafio-dio-banco">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Felipemevel&repo=desafio-dio-banco&theme=midnight-purple">
+  </a>
 </div>
    	
