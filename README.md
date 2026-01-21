@@ -37,5 +37,5 @@
   <a href="https://github.com/Felipemevel/Programacao-Computadores" target="_blank" style="text-decoration: none;">
     <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Felipemevel&repo=Programacao-Computadores&theme=midnight-purple"></a> &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Felipemevel/desafio-dio-banco" target="_blank" style="text-decoration: none;">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Felipemevel&repo=desafio-dio-banco&theme=midnight-purple"></a>
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Felipemevel&repo=Prototipo-banco&theme=midnight-purple"></a>
 </div>
