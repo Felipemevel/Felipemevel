@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="htpps://https://github.com/Felipemevel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipemevel&show_icons=true&theme=midnight-purple"> &nbsp; &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipemevel&layout=compact&theme=midnight-purple">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical"> &nbsp; &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical">
 </div>
     
 <div align="center" style="display: inline_block;"><br>
