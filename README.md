@@ -23,7 +23,7 @@
 ##
 
 <p align="center">
-  <img src="https://github.com/Felipemevel/Felipemevel/blob/output/github-snake-dark.svg" alt="snake gif">
+  <img src="https://github.com/Felipemevel/Felipemevel/blob/output/github-snake-dark.svg" alt="snake gif"> 
 </p>
 
 ##
