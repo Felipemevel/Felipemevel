@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://github.com/Felipemevel"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Felipemevel&show_icons=true&theme=midnight-purple" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/Felipemevel"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Felipemevel&layout=compact&theme=midnight-purple" /></a>
+  <a href="https://github.com/Felipemevel"><img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Felipemevel&show_icons=true&theme=midnight-purple" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/Felipemevel"><img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Felipemevel&layout=compact&theme=midnight-purple" /></a>
 </div>
 
 <div align="center"><br>
