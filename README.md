@@ -2,7 +2,7 @@
   <a href="https://github.com/Felipemevel"><img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Felipemevel&show_icons=true&theme=midnight-purple" /></a>&nbsp;&nbsp;
   <a href="https://github.com/Felipemevel"><img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Felipemevel&layout=compact&theme=midnight-purple" /></a>
 </div>
- 
+  
 <div align="center"><br>
   <img alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">&nbsp;
   <img alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">&nbsp;
