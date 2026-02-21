@@ -30,5 +30,5 @@
 
 <div align="center">
   <a href="https://github.com/Felipemevel/Programacao-Computadores" target="_blank"><img height="120" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Felipemevel&repo=Programacao-Computadores&theme=midnight-purple" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Felipemevel/desafio-dio-banco" target="_blank"><img height="120" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Felipemevel&repo=Introducao-Java&theme=midnight-purple" /></a>
+  <a href="https://github.com/Felipemevel/Introducao-Java" target="_blank"><img height="120" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Felipemevel&repo=Introducao-Java&theme=midnight-purple" /></a>
 </div>
