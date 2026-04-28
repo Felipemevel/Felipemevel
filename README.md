@@ -2,7 +2,9 @@
   <a href="https://github.com/Felipemevel"><img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Felipemevel&show_icons=true&theme=midnight-purple" /></a>&nbsp;&nbsp;
   <a href="https://github.com/Felipemevel"><img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Felipemevel&layout=compact&theme=midnight-purple" /></a>
 </div>
-        
+
+##
+<!--       
 <div align="center"><br>
   <img alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">&nbsp;
   <img alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">&nbsp;
@@ -12,10 +14,10 @@
   <img alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">&nbsp;
   <img alt="Tailwind" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
 </div>
+-->
 
-##
 
-<div style="display: inline-block;">
+<div style="display: inline-block;" align="center">
   <a href="https://www.linkedin.com/in/felipe-nascimento-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
   <a href="https://www.instagram.com/felipe.mevel/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
