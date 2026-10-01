@@ -15,7 +15,6 @@
   <img alt="Tailwind" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
 </div>
 -->
-##
 
 <p align="center">
   <img src="https://github.com/Felipemevel/Felipemevel/blob/output/github-snake-dark.svg" alt="snake gif"> 
